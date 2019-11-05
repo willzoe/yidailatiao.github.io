@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+#### 系统/PE工具下载
+[360云盘](https://yunpan.360.cn/surl_y36wcYySASM)
 
-You can use the [editor on GitHub](https://github.com/yidailatiao/yidailatiao.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+#### 激活工具
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[WIN10激活工具](https://dn-shimo-attachment.qbox.me/tY6XQ06SNvoFBd5X/WIN10%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7.exe?attname=WIN10%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7.exe)
 
-### Markdown
+[WIN7激活工具](https://dn-shimo-attachment.qbox.me/1WtxddRMeRclJPyD/WIN7%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7.exe?attname=WIN7%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7.exe)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 驱动相关
 
-```markdown
-Syntax highlighted code block
+[驱动总裁](http://drvceoup.drvceo.com/Final/DrvCeooLinstaller.exe)
 
-# Header 1
-## Header 2
-### Header 3
+[360驱动大师](https://dl.360safe.com/drvmgr/360DrvMgrInstaller_beta.exe)
 
-- Bulleted
-- List
+#### 其他工具
 
-1. Numbered
-2. List
+[DiskGenius](http://www.diskgenius.cn/download.php)
 
-**Bold** and _Italic_ and `Code` text
+[分区助手](https://www.disktool.cn/download.html)
 
-[Link](url) and ![Image](src)
-```
+[Rufus](http://rufus.ie)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### 官网跳转
 
-### Jekyll Themes
+[微软官网下载](https://www.microsoft.com/zh-cn/software-download/windows10)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yidailatiao/yidailatiao.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[华硕下载中心](https://www.asus.com.cn/support/Download-Center)
 
-### Support or Contact
+[微星下载中心](https://cn.msi.com/support#support_download)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[映泰下载中心](http://www.biostar.com.cn/app/en-us/support/download.php)
+
+[七彩虹下载中心](https://www.colorful.cn/server.aspx?classid=2825)
+
+[华擎下载中心](https://www.asrock.com/support/index.cn.asp)
+
+[技嘉下载中心](https://www.gigabyte.cn/Support)
+
+[NVIDIA驱动下载](https://www.geforce.cn/drivers)
+
+[AMD驱动下载](https://www.amd.com/zh-hans/support)
+
+[Intel驱动下载](https://downloadcenter.intel.com/zh-cn/)
