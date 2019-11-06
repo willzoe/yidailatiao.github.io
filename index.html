@@ -1,15 +1,21 @@
-<script>
-switch(window.location.host)
-{
-case "amorh.cn": 
-var hm = document.createElement("script");
-hm.src = "https://hm.baidu.com/hm.js?08cd0dd53121d5c334d5687e996446cd";
-var s = document.getElementsByTagName("script")[0]; 
-s.parentNode.insertBefore(hm, s);
-window.location="https://amorh.cn/home";
-break;
-default:
-window.location.href="https://amorh.cn/index.html";
-break;
-}
-</script>
+<!DOCTYPE html>
+<html>
+ <head>
+  <script>
+    switch(window.location.host)
+        {
+            case "amorh.cn": 
+                var hm = document.createElement("script");
+                hm.src = "https://hm.baidu.com/hm.js?08cd0dd53121d5c334d5687e996446cd";
+                var s = document.getElementsByTagName("script")[0]; 
+                s.parentNode.insertBefore(hm, s);
+                window.location="https://amorh.cn/home";
+            break;
+            default:
+                window.location.href="https://amorh.cn";
+            break;
+    }
+</script> 
+ </head>
+ <body></body>
+</html>
