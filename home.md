@@ -9,7 +9,7 @@
 
 #### 驱动相关
 
-[驱动总裁](http://drvceoup.drvceo.com/Final/DrvCeooLinstaller.exe)
+[驱动总裁](http://drvceoup.drvceo.com/Final/DrvCeooLinstaller.exe)   WIN7推荐👍
 
 [360驱动大师](https://dl.360safe.com/drvmgr/360DrvMgrInstaller_beta.exe)
 
@@ -20,6 +20,9 @@
 [分区助手](https://www.disktool.cn/download.html)
 
 [Rufus](http://rufus.ie)
+
+[DDU(显卡驱动彻底清除器)](https://www.wagnardsoft.com/DDU/download/DDU%20v18.0.1.9.exe)
+不建议，除非遇到驱动无法安装时可尝试使用
 
 #### 官网跳转
 
