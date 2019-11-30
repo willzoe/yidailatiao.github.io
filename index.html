@@ -1,13 +1,21 @@
 <!DOCTYPE html>
 <html>
  <head>
-  <script>
+<script>
+    switch(window.location.host)
+        {
+            case "sys.amorh.cn": 
                 var hm = document.createElement("script");
                 hm.src = "https://hm.baidu.com/hm.js?08cd0dd53121d5c334d5687e996446cd";
                 var s = document.getElementsByTagName("script")[0]; 
                 s.parentNode.insertBefore(hm, s);
-                window.location="https://yidailatiao.github.io/home";
-</script> 
+                window.location="https://sys.amorh.cn/home";
+            break;
+            default:
+                window.location.href="https://sys.amorh.cn";
+            break;
+    }
+</script>
  </head>
  <body></body>
 </html>
