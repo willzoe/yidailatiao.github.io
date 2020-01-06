@@ -1,5 +1,5 @@
 #### 系统下载
-[360云盘](https://yunpan.360.cn/surl_yuX4cwkBKwJ)
+[360云盘](https://sys.amorh.cn/download.html)
 
 [微软官网下载](https://www.microsoft.com/zh-cn/software-download/windows10)
 
