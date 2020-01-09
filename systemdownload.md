@@ -9,7 +9,7 @@
 
 #### 激活工具
 
-[WIN10/WIN7激活工具](https://yidailatiao.github.io/激活工具.zip)
+[WIN10/WIN7激活工具](https://github.com/yidailatiao/yidailatiao.github.io/files/4038196/default.zip)
 
 #### 驱动相关
 
