@@ -9,9 +9,7 @@
 
 #### 激活工具
 
-[WIN10激活工具](https://dn-shimo-attachment.qbox.me/tY6XQ06SNvoFBd5X/WIN10%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7.exe?attname=WIN10%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7.exe)
-
-[WIN7激活工具](https://dn-shimo-attachment.qbox.me/1WtxddRMeRclJPyD/WIN7%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7.exe?attname=WIN7%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7.exe)
+[WIN10/WIN7激活工具](https://yidailatiao.github.io/激活工具.zip)
 
 #### 驱动相关
 
