@@ -9,7 +9,7 @@
 
 #### 激活工具
 
-[WIN10/WIN7激活工具](https://github.com/yidailatiao/yidailatiao.github.io/files/4038196/default.zip)
+[WIN10/WIN7激活工具](https://public-1251691610.cos.ap-chengdu.myqcloud.com/soft/%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7.zip)可能会报毒，WIN10还需要关闭WindowsDefender。
 
 #### 驱动相关
 
@@ -18,6 +18,10 @@
 [360驱动大师](https://dl.360safe.com/drvmgr/360DrvMgrInstaller_beta.exe)
 
 #### 其他工具
+
+[关闭Windows更新](https://public-1251691610.cos.ap-chengdu.myqcloud.com/soft/%E5%85%B3%E9%97%ADWindows%E6%9B%B4%E6%96%B0.zip)
+
+[关闭Windows Defender](https://public-1251691610.cos.ap-chengdu.myqcloud.com/soft/%E5%85%B3%E9%97%ADWindowsDefender.zip)
 
 [DiskGenius](http://www.diskgenius.cn/download.php)
 
