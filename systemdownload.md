@@ -8,8 +8,9 @@
 
 
 #### 激活工具
+[WIN10激活工具](https://public-1251691610.cos.ap-chengdu.myqcloud.com/WIN10%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7.zip)
 
-[WIN10/WIN7激活工具](https://public-1251691610.cos.ap-chengdu.myqcloud.com/soft/%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7.zip)可能会报毒，WIN10还需要关闭WindowsDefender。
+[WIN7激活工具](https://public-1251691610.cos.ap-chengdu.myqcloud.com/WIN7%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7.zip)
 
 #### 驱动相关
 
